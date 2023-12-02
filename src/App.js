@@ -8,7 +8,7 @@ import NotFound from "./components/NotFound";
 function App() {
   return (
     <>
-      <HashRouter basename="/routerpractice">
+      <HashRouter>
         <nav>
           <ul>
             <li><Link to="/">Home</Link></li>
