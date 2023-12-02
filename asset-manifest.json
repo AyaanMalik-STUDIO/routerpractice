@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/routerpractice/static/css/main.31d6cfe0.css",
+    "main.js": "/routerpractice/static/js/main.23f68726.js",
+    "index.html": "/routerpractice/index.html",
+    "main.23f68726.js.map": "/routerpractice/static/js/main.23f68726.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.23f68726.js"
+  ]
+}
