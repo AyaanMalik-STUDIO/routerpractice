@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/routerpractice/static/css/main.dc4d6ff2.css",
+    "main.js": "/routerpractice/static/js/main.9753eda5.js",
+    "index.html": "/routerpractice/index.html",
+    "main.dc4d6ff2.css.map": "/routerpractice/static/css/main.dc4d6ff2.css.map",
+    "main.9753eda5.js.map": "/routerpractice/static/js/main.9753eda5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.9753eda5.js"
+  ]
+}
