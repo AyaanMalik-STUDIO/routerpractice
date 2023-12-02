@@ -1,5 +1,5 @@
 import "./App.css";
-import { HashRouter as BrowserRouter, Routes, Route, Link } from "react-router-dom";
+import { HashRouter, Routes, Route, Link } from "react-router-dom";
 import Home from "./components/Home";
 import About from "./components/About";
 import Contact from "./components/Contact";
@@ -8,7 +8,7 @@ import NotFound from "./components/NotFound";
 function App() {
   return (
     <>
-      <BrowserRouter basename="/routerpractice">
+      <HashRouter basename="/routerpractice">
         <nav>
           <ul>
             <li><Link to="/">Home</Link></li>
@@ -23,7 +23,7 @@ function App() {
           <Route path="/contact" element={<Contact />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </>
   );
 }
